@@ -1,0 +1,11 @@
+{
+"companyName": "fika",
+"productName": "fika",
+"dataUrl": "test6 256mem.data.unityweb",
+"asmCodeUrl": "test6 256mem.asm.code.unityweb",
+"asmMemoryUrl": "test6 256mem.asm.memory.unityweb",
+"asmFrameworkUrl": "test6 256mem.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
